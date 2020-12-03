@@ -33,9 +33,24 @@ The core team attempts to understand the challenges HYF students go through, oft
 - The core team is flexible with ‘the 3-strike rule’ (see Student Manual) in the case a student  needs to prepare for interviews with the IND (Dutch Immigration Services) 
 - Students respect their classmates and understand they go through stressful times. They try to help out when needed and work in a collaborative manner during the complete HYF program.
 
-## Drive & Pro-activity
+## Communication and Collaboration
 
 ![Values2](assets/v2.jpg)
+
+HYF is only possible because of collaboration. We have a small core team and rely heavily on the contributions of our mentors and the efforts of students. Also within classes collaboration is key. Students will need to ask their classmates for help. Not only will you solve technical challenges, learning how to collaborate and communicate is part of being a successful developer and helps to get and keep an internship/job. To facilitate decent collaboration, professional communication is pivotal. Communication among students, with mentors but also with and within the core team. 
+
+### Some examples include:
+- Some mentors have facilitated the hiring of HYF students in companies they work for or have in their networks.
+- Students from class28 shared their personal feedback from practice interviews with Adyen with their classmates to help them prepare.
+- Merve (class 28) connected with the teachers that corrected her homeworks for a final round of feedback.
+- Unmesh offered Fede a lesson on Git to better collaborate on the online curriculum.
+- Many students help out their classmates when they have finished their homework.
+- Multiple students have created PRs/issues to improve the content of our curriculum.
+
+
+## Drive & Pro-activity
+
+![Values3](assets/v3.jpg)
 
 HYF students might not have a lot of experience with coding, but their sheer commitment is what sets them apart and renders it a valuable investment for a company. This commitment is based on one’s drive (the ability to motivate yourself and keep working) as well as pro-activity (doing more than is expected of you). Our education program is completed based on this value, with a clear focus on self-study and self-awareness. There is a clear infrastructure of support by way of the curriculum, the core team and the mentors. But students need to put in most of the effort to reach their goals. We typically estimate the weekly commitment to HYF for students at ~40 hours. But if this is your chance to take back control over your life, maybe more is needed. 
 
@@ -48,20 +63,6 @@ The examples below show that other community members aim to apply these values a
 - Fede and Wouter worked on the Behind the Source promo campaign for HYF after work hours.
 - Our mentor Riccardo created a great checklist for graduates working on technical assignments without being asked for.
 - Our mentor Unmesh not only volunteers to teach for HYF Netherlands, but in HYF Belgium and Denmark as well.
-
-## Communication and Collaboration
-
-![Values3](assets/v3.jpg)
-
-HYF is only possible because of collaboration. We have a small core team and rely heavily on the contributions of our mentors and the efforts of students. Also within classes collaboration is key. Students will need to ask their classmates for help. Not only will you solve technical challenges, learning how to collaborate and communicate is part of being a successful developer and helps to get and keep an internship/job. To facilitate decent collaboration, professional communication is pivotal. Communication among students, with mentors but also with and within the core team. 
-
-### Some examples include:
-- Some mentors have facilitated the hiring of HYF students in companies they work for or have in their networks.
-- Students from class28 shared their personal feedback from practice interviews with Adyen with their classmates to help them prepare.
-- Merve (class 28) connected with the teachers that corrected her homeworks for a final round of feedback.
-- Unmesh offered Fede a lesson on Git to better collaborate on the online curriculum.
-- Many students help out their classmates when they have finished their homework.
-- Multiple students have created PRs/issues to improve the content of our curriculum.
 
 ## Results Oriented and Accountability
 
