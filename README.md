@@ -16,6 +16,8 @@ We know that communities and organizations with a strong culture and higher purp
 
 ## Respect and Empathy
 
+![Values1](assets/v1.jpg)
+
 HackYourFuture was set up with the goal to help talented people use their potential. 
 This is partially underpinned by a rational conviction that we are all better off when talent is used in an efficient manner. Unemployment and underemployment of people with skills and motivation hurts all of us. 
 
@@ -31,7 +33,10 @@ The core team attempts to understand the challenges HYF students go through, oft
 - The core team is flexible with ‘the 3-strike rule’ (see Student Manual) in the case a student  needs to prepare for interviews with the IND (Dutch Immigration Services) 
 - Students respect their classmates and understand they go through stressful times. They try to help out when needed and work in a collaborative manner during the complete HYF program.
 
-## Go above and beyond (Drive & pro-activity)  
+## Drive & Pro-activity
+
+![Values2](assets/v2.jpg)
+
 HYF students might not have a lot of experience with coding, but their sheer commitment is what sets them apart and renders it a valuable investment for a company. This commitment is based on one’s drive (the ability to motivate yourself and keep working) as well as pro-activity (doing more than is expected of you). Our education program is completed based on this value, with a clear focus on self-study and self-awareness. There is a clear infrastructure of support by way of the curriculum, the core team and the mentors. But students need to put in most of the effort to reach their goals. We typically estimate the weekly commitment to HYF for students at ~40 hours. But if this is your chance to take back control over your life, maybe more is needed. 
 
 The examples below show that other community members aim to apply these values as well:
@@ -44,7 +49,10 @@ The examples below show that other community members aim to apply these values a
 - Our mentor Riccardo created a great checklist for graduates working on technical assignments without being asked for.
 - Our mentor Unmesh not only volunteers to teach for HYF Netherlands, but in HYF Belgium and Denmark as well.
 
-## Do it together (Communication and collaboration)
+## Communication and Collaboration
+
+![Values3](assets/v3.jpg)
+
 HYF is only possible because of collaboration. We have a small core team and rely heavily on the contributions of our mentors and the efforts of students. Also within classes collaboration is key. Students will need to ask their classmates for help. Not only will you solve technical challenges, learning how to collaborate and communicate is part of being a successful developer and helps to get and keep an internship/job. To facilitate decent collaboration, professional communication is pivotal. Communication among students, with mentors but also with and within the core team. 
 
 ### Some examples include:
@@ -55,7 +63,10 @@ HYF is only possible because of collaboration. We have a small core team and rel
 - Many students help out their classmates when they have finished their homework.
 - Multiple students have created PRs/issues to improve the content of our curriculum.
 
-## Jobs, jobs, jobs! (Results Oriented / Accountability) 
+## Results Oriented and Accountability
+
+![Values4](assets/v4.jpg)
+
 In a way, coding is just a means to an end. Becoming a good coder will hopefully lead to a good job and a better life. Therefore, at HYF, everything we do is with this goal in mind. It is also what sets us apart from many programs that focus on training only (often with limited sustainable impact).
 
 For this reason we try to run HYF as much like a company with a professional environment. We therefore constantly evaluate the invested time of the core team and assess whether their efforts lead to a higher chance of placement of students. It is also why we expect students and mentors to participate in HYF in a professional manner. To see it as a job, instead of a hobby.
