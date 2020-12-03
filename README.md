@@ -60,8 +60,8 @@ The examples below show that other community members aim to apply these values a
 - Aleks (student class 29) built a domino game application as an extracurricular activity next to his regular homework as he wanted to be challenged more, learn faster and have more to show on his CV.
 - Mentor Stas reviewed all JS tests for class 28 in one evening (when he was expected to review 4 only).
 - Mentor Andrej hosted a meeting after a test to answer students’ questions on his own initiative.
-- Fede and Wouter worked on the Behind the Source promo campaign for HYF after work hours.
-- Our mentor Riccardo created a great checklist for graduates working on technical assignments without being asked for.
+- Fede and Wouter worked on the [Behind the Source](https://www.hackyourfuture.net/behindthesource/) promo campaign for HYF after work hours.
+- Our mentor Riccardo created a great [checklist for graduates working on technical assignments](https://github.com/riccardobevilacqua/technical-assignment-tips) without being asked for.
 - Our mentor Unmesh not only volunteers to teach for HYF Netherlands, but in HYF Belgium and Denmark as well.
 
 ## Results Oriented and Accountability
