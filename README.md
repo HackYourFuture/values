@@ -1,2 +1,5 @@
-# values
-Set of guiding principles and fundamental beliefs that help our group function together as a team and work toward a common goal: Helping people find good jobs!
+# Mission, Vision and Values
+
+
+At HYF we support people with a distance to the labour market find quality employment because we envision a world where your drive and potential, not your background, define your career opportunities. With the help of an amazing community we are making sure no talent goes to waste!
+
