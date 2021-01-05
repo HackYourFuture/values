@@ -79,4 +79,4 @@ For this reason we try to run HYF as much like a company with a professional env
 - HYF graduate Mehmet Bozdemir making a daily schedule and putting in more than 50 hours a week.
 - Our curriculum is continuously updated to make sure the technologies and frameworks we teach are in line with the demands of the labor market.
 
-#### If you are a new student at HackYourFuture, do not forget to also check the [different common scenarios]() you might encounter during your time with us, and how to go about them.  
+#### If you are a new student at HackYourFuture, do not forget to also check the [different common scenarios](https://github.com/HackYourFuture/culture/blob/main/scenarios.md) you might encounter during your time with us, and how to go about them.  
