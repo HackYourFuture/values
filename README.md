@@ -1,4 +1,4 @@
-# Mission, Vision and Values
+# Our Culture
 
 ![Values](assets/values.jpg)
 
@@ -78,3 +78,5 @@ For this reason we try to run HYF as much like a company with a professional env
 - We maintain a 3 strikes out policy to keep everyone sharp and accountable. Missing a class or deadline and not communicating properly will lead to 1 strike. 3 strikes are usually a clear sign that you don't or cannot live by the values that help our community deliver on our mission.
 - HYF graduate Mehmet Bozdemir making a daily schedule and putting in more than 50 hours a week.
 - Our curriculum is continuously updated to make sure the technologies and frameworks we teach are in line with the demands of the labor market.
+
+#### If you are a new student at HackYourFuture, do not forget to also check the [different common scenarios]() you might encounter during your time with us, and how to go about them.  
