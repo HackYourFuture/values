@@ -6,9 +6,9 @@ In this document describe common scenarios and situations you might find yoursel
 
 You do your own research first. However do not spend TOO much time figuring things out if you are lost. Some companies have a rule: if you are stuck for more than 2 hours, you NEED to ask for help. This way no unnecessary time is wasted but you still get to learn from doing your own research. So in short: 
 
-1- Do your own research and try to solve the problem yourself (maximum 1-2 hours depending on the task at hand) 
-2- Ask help in your class channel: other colleagues or teachers can help. 
-3- If you are too shy to ask you class, you can contact a classmate, teacher or one of your mentors for some help. Still, know that a good developer knows how to communicate, how to search and how to use their time effectively. Don’t be shy!
+1- Do your own research and try to solve the problem yourself (maximum 1-2 hours depending on the task at hand) <br>
+2- Ask help in your class channel: other colleagues or teachers can help. <br>
+3- If you are too shy to ask you class, you can contact a classmate, teacher or one of your mentors for some help. Still, know that a good developer knows how to communicate, how to search and how to use their time effectively. Don’t be shy! <br>
 
 Also keep in mind that sometimes is better to ask for guidance than simply doing it all on your own. When you ask someone that has more expertise you might find yourself learning new things. So do ask for help!
 
