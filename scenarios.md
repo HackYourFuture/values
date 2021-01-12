@@ -65,5 +65,5 @@ Getting us in contact with the company and mentioning the fees are the best way 
 Additionally, when you connect us with the company, we have the chance to share information about our program and also add more companies to our partner list which could eventually hire another grad from our school. Also we will help you and the company better navigate the hiring process. Communication with us during all this process is crucial.
 
 
-**** [Click here](https://drive.google.com/file/d/1ZccjOchqIoX3aiexNvIcWeht7az676CK/view?usp=sharing) to download the culture presentation****
+[Click here](https://drive.google.com/file/d/1ZccjOchqIoX3aiexNvIcWeht7az676CK/view?usp=sharing) to download the Culture Deck. This will be a collaborative session done with the whole class in the first week of the course.
 
